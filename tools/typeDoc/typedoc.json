@@ -1,0 +1,12 @@
+{
+    "entryPoints": [
+        "../../../src/framework/application.ts"
+    ],
+    "out": "../../APIDoc",
+    "excludePrivate": true,
+    "sort": [
+        "instance-first",
+        "static-first",
+        "alphabetical"
+    ]
+}
